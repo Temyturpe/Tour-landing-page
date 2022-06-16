@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\t-flex"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "small"
+  }
+}
